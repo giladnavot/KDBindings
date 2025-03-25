@@ -11,6 +11,10 @@ We will cover:
 2. How to use them, including an example.
 3. Advanced usage of Signals.
 
+```mermaid
+
+```
+
 # What are Signals
 
 <SwmSnippet path="/src/kdbindings/signal.h" line="31">
